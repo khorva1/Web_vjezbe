@@ -1,0 +1,269 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>vježba 7</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="description" content="Planine">
+    <meta name="keywords" content="planine">
+    <meta name="author" content="Krešimir Horvat">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
+<body>
+    <h1 align="center"> Planine </h1>
+    <hr>
+    <a href="#Prvo_poglavlje" target="_self">
+        <img src="images/Everest.jpg" width="100" align="center" alt="everest" vspace="15"> </a>
+
+    <a href="#Drugo_poglavlje" target="_self">
+        <img src="images/Elbrus.jpg" alt="Elbrus" width="100" align="center"> </a>
+
+    <a href="#Treće_poglavlje" target="_self">
+        <img src="images/fuji.jpg" alt="Fuji" width="100" align="center"> </a>
+
+    <a href="#Četvrto_poglavlje" target="_self">
+        <img src="images/Kenya.jpg" alt="Mount Kenya" width="100" height="67" align="center"> </a>
+    <hr>
+
+
+
+    <h2 id="Prvo_poglavlje">Prvo poglavlje</h2>
+    <a href="#Drugo_poglavlje" target="_self"> Iduće poglavlje </a>
+    <p> </p>
+
+    <img src="images/Everest.jpg" alt="Mount Everst" title="Mount Everst" width="500" align="left" hspace="1"
+        vspace="1" />
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum, tortor ac convallis pharetra, neque
+        sapien lacinia quam, a fringilla est felis id urna.
+        Curabitur tempus mi eu orci venenatis, gravida imperdiet magna fermentum. Suspendisse in
+        dolor tellus. Suspendisse porta euismod purus, quis efficitur nulla convallis et. Duis ullamcorper vel est et
+        elementum. In quis fringilla urna, sed efficitur ligula.
+        Mauris et tincidunt ipsum. Morbi ex neque, imperdiet eu sollicitudin sagittis, eleifend ut est. Proin elementum
+        tempus elit lacinia interdum. Nullam dignissim
+        scelerisque elit ut tincidunt. Sed vel dolor ut elit venenatis vestibulum. Nulla ut vulputate nisi. Cras feugiat
+        est in magna tempus, id iaculis est blandit. Aenean vel
+        magna at dui euismod ullamcorper sed suscipit nisi. Sed vel elementum ligula. </p>
+    <p> Vestibulum at sagittis turpis. Sed lobortis quam eget semper condimentum. Nulla vel volutpat tellus, ut faucibus
+        augue. Phasellus egestas sodales eros. Maecenas quis erat vel felis vestibulum sollicitudin. Nullam tristique
+        odio rhoncus, tristique lectus vel, cursus nisi. Ut leo tellus, dapibus quis mi eget, ornare tincidunt tellus.
+        Vestibulum et efficitur lectus. Mauris rhoncus, nisl nec egestas egestas, leo erat ornare ex, quis imperdiet
+        felis odio eu nulla. Morbi at dolor eu lectus auctor posuere. Nunc venenatis ex tellus, nec aliquam metus
+        aliquet sit amet. Donec semper metus lectus, vel elementum mi finibus et. Sed nec nibh et risus tincidunt
+        elementum. Nullam dignissim enim ac tortor convallis commodo. Nunc non accumsan tortor, in viverra libero. Duis
+        sodales luctus lacus in varius. </p>
+    <p> Vivamus eu bibendum magna, sed elementum ipsum. Nam tincidunt tincidunt lacinia. Aliquam porttitor lectus ac
+        bibendum congue. Duis ac elit volutpat, interdum nulla vel, laoreet eros. Aliquam semper porttitor sem volutpat
+        mattis. Curabitur tempus neque at ex mattis accumsan. Mauris laoreet ipsum vitae arcu blandit pellentesque.
+        Praesent ut suscipit metus, sit amet lobortis est. Proin sit amet tortor feugiat, sollicitudin nulla id, tempor
+        nibh. Nulla facilisi. </p>
+    <p> In tincidunt semper eros a suscipit. Aliquam erat volutpat. Curabitur rhoncus, sapien eget commodo feugiat, leo
+        risus volutpat est, eget accumsan tellus libero vel mi. Sed eu neque sit amet felis tincidunt bibendum at id
+        nisl. Nunc feugiat dui quis lorem lobortis tempus. Vivamus tristique consectetur tortor quis tincidunt. Etiam
+        turpis ante, cursus id nisl et, maximus varius ante. Etiam mattis eget lectus et accumsan. Cras ultrices lectus
+        quis est lobortis vulputate. Praesent mollis condimentum interdum. Phasellus at eros nec est mollis hendrerit.
+    </p>
+    <p> Phasellus placerat pharetra laoreet. Integer in pharetra enim, non fringilla velit. Nam feugiat ut nisl id
+        tincidunt. Aliquam hendrerit lacinia dolor nec lacinia. Nullam sodales risus quis maximus semper. Morbi ultrices
+        pharetra diam sed luctus. Curabitur tempus scelerisque augue. Duis lobortis et libero a efficitur. In ultrices
+        vulputate massa, eget ornare orci accumsan egestas. Curabitur mauris tellus, tempus ullamcorper efficitur id,
+        pulvinar et neque. In hac habitasse platea dictumst. </p>
+    <p> </p>
+    <iframe title="Wikipedia mountains" width="700" height="500" 
+        src="https://en.wikipedia.org/wiki/Mountain">
+    </iframe>
+    <p> </p>
+    <a href="#Top" target="_self"> Na početak </a>
+    <hr>
+
+
+
+
+    <h2 id="Drugo_poglavlje">Drugo poglavlje</h2>
+
+    <a href="#Prvo_poglavlje" target="_self"> Prethodno poglavlje &nbsp; </a>
+    <a href="#Treće_poglavlje" target="_self"> Iduće poglavlje </a>
+    <p> </p>
+
+    <img src="images/Elbrus.jpg" alt="Elbrus" title="Elbrus" width="500" align="left" hspace="1" vspace="1" />
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum, tortor ac convallis pharetra, neque
+        sapien lacinia quam, a fringilla est felis id urna.
+        Curabitur tempus mi eu orci venenatis, gravida imperdiet magna fermentum. Suspendisse in
+        dolor tellus. Suspendisse porta euismod purus, quis efficitur nulla convallis et. Duis ullamcorper vel est et
+        elementum. In quis fringilla urna, sed efficitur ligula.
+        Mauris et tincidunt ipsum. Morbi ex neque, imperdiet eu sollicitudin sagittis, eleifend ut est. Proin elementum
+        tempus elit lacinia interdum. Nullam dignissim
+        scelerisque elit ut tincidunt. Sed vel dolor ut elit venenatis vestibulum. Nulla ut vulputate nisi. Cras feugiat
+        est in magna tempus, id iaculis est blandit. Aenean vel
+        magna at dui euismod ullamcorper sed suscipit nisi. Sed vel elementum ligula. </p>
+    <p> Vestibulum at sagittis turpis. Sed lobortis quam eget semper condimentum. Nulla vel volutpat tellus, ut faucibus
+        augue. Phasellus egestas sodales eros. Maecenas quis erat vel felis vestibulum sollicitudin. Nullam tristique
+        odio rhoncus, tristique lectus vel, cursus nisi. Ut leo tellus, dapibus quis mi eget, ornare tincidunt tellus.
+        Vestibulum et efficitur lectus. Mauris rhoncus, nisl nec egestas egestas, leo erat ornare ex, quis imperdiet
+        felis odio eu nulla. Morbi at dolor eu lectus auctor posuere. Nunc venenatis ex tellus, nec aliquam metus
+        aliquet sit amet. Donec semper metus lectus, vel elementum mi finibus et. Sed nec nibh et risus tincidunt
+        elementum. Nullam dignissim enim ac tortor convallis commodo. Nunc non accumsan tortor, in viverra libero. Duis
+        sodales luctus lacus in varius. </p>
+    <p> Vivamus eu bibendum magna, sed elementum ipsum. Nam tincidunt tincidunt lacinia. Aliquam porttitor lectus ac
+        bibendum congue. Duis ac elit volutpat, interdum nulla vel, laoreet eros. Aliquam semper porttitor sem volutpat
+        mattis. Curabitur tempus neque at ex mattis accumsan. Mauris laoreet ipsum vitae arcu blandit pellentesque.
+        Praesent ut suscipit metus, sit amet lobortis est. Proin sit amet tortor feugiat, sollicitudin nulla id, tempor
+        nibh. Nulla facilisi. </p>
+    <p> In tincidunt semper eros a suscipit. Aliquam erat volutpat. Curabitur rhoncus, sapien eget commodo feugiat, leo
+        risus volutpat est, eget accumsan tellus libero vel mi. Sed eu neque sit amet felis tincidunt bibendum at id
+        nisl. Nunc feugiat dui quis lorem lobortis tempus. Vivamus tristique consectetur tortor quis tincidunt. Etiam
+        turpis ante, cursus id nisl et, maximus varius ante. Etiam mattis eget lectus et accumsan. Cras ultrices lectus
+        quis est lobortis vulputate. Praesent mollis condimentum interdum. Phasellus at eros nec est mollis hendrerit.
+    </p>
+    <p> Phasellus placerat pharetra laoreet. Integer in pharetra enim, non fringilla velit. Nam feugiat ut nisl id
+        tincidunt. Aliquam hendrerit lacinia dolor nec lacinia. Nullam sodales risus quis maximus semper. Morbi ultrices
+        pharetra diam sed luctus. Curabitur tempus scelerisque augue. Duis lobortis et libero a efficitur. In ultrices
+        vulputate massa, eget ornare orci accumsan egestas. Curabitur mauris tellus, tempus ullamcorper efficitur id,
+        pulvinar et neque. In hac habitasse platea dictumst. </p>
+    <p> </p>
+    <ul style="list-style-type:square">
+        <li> Slika narušenog odnosa širine i visine: <img src="images/Elbrus.jpg" alt="Elbrus" title="Elbrus"
+                width="700" height="100" align="top" vspace="5"> </li>
+        <li> Slika u veličini 20% od originalne: <img src="images/Elbrus.jpg" alt="Elbrus" title="Elbrus" width="160"
+                align="top" vspace="5"> </li>
+        <li> Slika u veličini 100% od originalne: <img src="images/Elbrus.jpg" alt="Elbrus" title="Elbrus" align="top"
+                vspace="5"> </li>
+
+    </ul>
+
+
+    <a href="#Top" target="_self"> Na početak </a>
+    <hr>
+
+
+
+
+
+
+
+    <h2 id="Treće_poglavlje">Treće poglavlje</h2>
+    <nav>
+        <a href="#Drugo_poglavlje" target="_self"> Prethodno poglavlje &#160;  </a>
+        <a href="#Četvrto_poglavlje" target="_self"> Iduće poglavlje </a>
+    </nav>
+    <p> </p>
+
+    <img src="images/fuji.jpg" alt="Fuji" title="Fuji" width="500" align="left" hspace="1" vspace="1" />
+
+
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum, tortor ac convallis pharetra, neque
+        sapien lacinia quam, a fringilla est felis id urna.
+        Curabitur tempus mi eu orci venenatis, gravida imperdiet magna fermentum. Suspendisse in
+        dolor tellus. Suspendisse porta euismod purus, quis efficitur nulla convallis et. Duis ullamcorper vel est et
+        elementum. In quis fringilla urna, sed efficitur ligula.
+        Mauris et tincidunt ipsum. Morbi ex neque, imperdiet eu sollicitudin sagittis, eleifend ut est. Proin elementum
+        tempus elit lacinia interdum. Nullam dignissim
+        scelerisque elit ut tincidunt. Sed vel dolor ut elit venenatis vestibulum. Nulla ut vulputate nisi. Cras feugiat
+        est in magna tempus, id iaculis est blandit. Aenean vel
+        magna at dui euismod ullamcorper sed suscipit nisi. Sed vel elementum ligula. </p>
+    <p> Vestibulum at sagittis turpis. Sed lobortis quam eget semper condimentum. Nulla vel volutpat tellus, ut faucibus
+        augue. Phasellus egestas sodales eros. Maecenas quis erat vel felis vestibulum sollicitudin. Nullam tristique
+        odio rhoncus, tristique lectus vel, cursus nisi. Ut leo tellus, dapibus quis mi eget, ornare tincidunt tellus.
+        Vestibulum et efficitur lectus. Mauris rhoncus, nisl nec egestas egestas, leo erat ornare ex, quis imperdiet
+        felis odio eu nulla. Morbi at dolor eu lectus auctor posuere. Nunc venenatis ex tellus, nec aliquam metus
+        aliquet sit amet. Donec semper metus lectus, vel elementum mi finibus et. Sed nec nibh et risus tincidunt
+        elementum. Nullam dignissim enim ac tortor convallis commodo. Nunc non accumsan tortor, in viverra libero. Duis
+        sodales luctus lacus in varius. </p>
+    <p> Vivamus eu bibendum magna, sed elementum ipsum. Nam tincidunt tincidunt lacinia. Aliquam porttitor lectus ac
+        bibendum congue. Duis ac elit volutpat, interdum nulla vel, laoreet eros. Aliquam semper porttitor sem volutpat
+        mattis. Curabitur tempus neque at ex mattis accumsan. Mauris laoreet ipsum vitae arcu blandit pellentesque.
+        Praesent ut suscipit metus, sit amet lobortis est. Proin sit amet tortor feugiat, sollicitudin nulla id, tempor
+        nibh. Nulla facilisi. </p>
+    <p> In tincidunt semper eros a suscipit. Aliquam erat volutpat. Curabitur rhoncus, sapien eget commodo feugiat, leo
+        risus volutpat est, eget accumsan tellus libero vel mi. Sed eu neque sit amet felis tincidunt bibendum at id
+        nisl. Nunc feugiat dui quis lorem lobortis tempus. Vivamus tristique consectetur tortor quis tincidunt. Etiam
+        turpis ante, cursus id nisl et, maximus varius ante. Etiam mattis eget lectus et accumsan. Cras ultrices lectus
+        quis est lobortis vulputate. Praesent mollis condimentum interdum. Phasellus at eros nec est mollis hendrerit.
+    </p>
+    <p> Phasellus placerat pharetra laoreet. Integer in pharetra enim, non fringilla velit. Nam feugiat ut nisl id
+        tincidunt. Aliquam hendrerit lacinia dolor nec lacinia. Nullam sodales risus quis maximus semper. Morbi ultrices
+        pharetra diam sed luctus. Curabitur tempus scelerisque augue. Duis lobortis et libero a efficitur. In ultrices
+        vulputate massa, eget ornare orci accumsan egestas. Curabitur mauris tellus, tempus ullamcorper efficitur id,
+        pulvinar et neque. In hac habitasse platea dictumst. </p>
+    <p> </p>
+
+    <ul style="list-style-type:disc">
+        <li>Planina 1 </li>
+        <ul style="list-style-type:square">
+            <li>Planina 1-1 </li>
+            <li>Planina 1-2 </li>
+            <ol type="i">
+                <li>Planina 1-2-1 </li>
+                <li>Planina 1-2-2 </li>
+            </ol>
+            <li>Planina 1-3 </li>
+            <li>Planina 1-4 </li>
+        </ul>
+        <li>Planina 2 </li>
+        <ol type="A">
+            <li>Planina 2-1 </li>
+            <li>Planina 2-2 </li>
+        </ol>
+    </ul>
+    <p> </p>
+    <a href="#Top" target="_self"> Na početak </a>
+    <hr>
+
+
+
+
+
+
+    <h2 id="Četvrto_poglavlje"> "Četvrto poglavlje" </h2>
+
+    <a href="#Treće_poglavlje" target="_self"> Prethodno poglavlje </a>
+    <p> </p>
+
+    <img src="images/Kenya.jpg" alt="Mount Kenya" title="Mount Kenya" width="500" align="left" hspace="1" vspace="1" />
+    <img src="images/Kenya.jpg" alt="Mount Kenya" title="Mount Kenya" width="300" align="right" hspace="1" vspace="1" />
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum, tortor ac convallis pharetra, neque
+        sapien lacinia quam, a fringilla est felis id urna.
+        Curabitur tempus mi eu orci venenatis, gravida imperdiet magna fermentum. Suspendisse in
+        dolor tellus. Suspendisse porta euismod purus, quis efficitur nulla convallis et. Duis ullamcorper vel est et
+        elementum. In quis fringilla urna, sed efficitur ligula.
+        Mauris et tincidunt ipsum. Morbi ex neque, imperdiet eu sollicitudin sagittis, eleifend ut est. Proin elementum
+        tempus elit lacinia interdum. Nullam dignissim
+        scelerisque elit ut tincidunt. Sed vel dolor ut elit venenatis vestibulum. Nulla ut vulputate nisi. Cras feugiat
+        est in magna tempus, id iaculis est blandit. Aenean vel
+        magna at dui euismod ullamcorper sed suscipit nisi. Sed vel elementum ligula. </p>
+    <p> Vestibulum at sagittis turpis. Sed lobortis quam eget semper condimentum. Nulla vel volutpat tellus, ut faucibus
+        augue. Phasellus egestas sodales eros. Maecenas quis erat vel felis vestibulum sollicitudin. Nullam tristique
+        odio rhoncus, tristique lectus vel, cursus nisi. Ut leo tellus, dapibus quis mi eget, ornare tincidunt tellus.
+        Vestibulum et efficitur lectus. Mauris rhoncus, nisl nec egestas egestas, leo erat ornare ex, quis imperdiet
+        felis odio eu nulla. Morbi at dolor eu lectus auctor posuere. Nunc venenatis ex tellus, nec aliquam metus
+        aliquet sit amet. Donec semper metus lectus, vel elementum mi finibus et. Sed nec nibh et risus tincidunt
+        elementum. Nullam dignissim enim ac tortor convallis commodo. Nunc non accumsan tortor, in viverra libero. Duis
+        sodales luctus lacus in varius. </p>
+    <p> Vivamus eu bibendum magna, sed elementum ipsum. Nam tincidunt tincidunt lacinia. Aliquam porttitor lectus ac
+        bibendum congue. Duis ac elit volutpat, interdum nulla vel, laoreet eros. Aliquam semper porttitor sem volutpat
+        mattis. Curabitur tempus neque at ex mattis accumsan. Mauris laoreet ipsum vitae arcu blandit pellentesque.
+        Praesent ut suscipit metus, sit amet lobortis est. Proin sit amet tortor feugiat, sollicitudin nulla id, tempor
+        nibh. Nulla facilisi. </p>
+    <p> In tincidunt semper eros a suscipit. Aliquam erat volutpat. Curabitur rhoncus, sapien eget commodo feugiat, leo
+        risus volutpat est, eget accumsan tellus libero vel mi. Sed eu neque sit amet felis tincidunt bibendum at id
+        nisl. Nunc feugiat dui quis lorem lobortis tempus. Vivamus tristique consectetur tortor quis tincidunt. Etiam
+        turpis ante, cursus id nisl et, maximus varius ante. Etiam mattis eget lectus et accumsan. Cras ultrices lectus
+        quis est lobortis vulputate. Praesent mollis condimentum interdum. Phasellus at eros nec est mollis hendrerit.
+    </p>
+    <p> Phasellus placerat pharetra laoreet. Integer in pharetra enim, non fringilla velit. Nam feugiat ut nisl id
+        tincidunt. Aliquam hendrerit lacinia dolor nec lacinia. Nullam sodales risus quis maximus semper. Morbi ultrices
+        pharetra diam sed luctus. Curabitur tempus scelerisque augue. Duis lobortis et libero a efficitur. In ultrices
+        vulputate massa, eget ornare orci accumsan egestas. Curabitur mauris tellus, tempus ullamcorper efficitur id,
+        pulvinar et neque. In hac habitasse platea dictumst. </p>
+    <p> </p>
+
+    <p> </p>
+    <a href="#Top" target="_self"> Na početak </a>
+    <hr>
+
+
+</body>
+
+</html>
